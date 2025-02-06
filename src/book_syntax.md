@@ -160,7 +160,9 @@ $R\tiny RRRRR\normalsize \cdot I_1$
 
 $R_{RRRRR} \cdot I_1 $
  
+$V = \varphi потенциал$ 
 
+$\pm or \plusmn$
 
 # Препроцессоры: [Mdbook Embedify](https://mr-addict.github.io/mdbook-embedify/)
 
