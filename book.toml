@@ -1,0 +1,63 @@
+[book]
+authors = ["Jeka"]
+language = "ru"
+multilingual = true
+src = "src"
+title = "Electronica"
+
+[output.html]
+mathjax-support = true
+default-theme = "light"
+additional-css = ["css/custom.css", "css/mdbook-admonish.css"]
+additional-js = ["js/mermaid.min.js", "js/mermaid-init.js" ]
+
+
+[output.html.playground]
+editable = true
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html.highlight]
+exclude = ["mermaid"]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.0.2" # do not edit: managed by `mdbook-admonish install`
+
+[preprocessor.embedify]
+scroll-to-top.enable = true
+
+
+[preprocessor.numeq]
+
+[preprocessor.katex]
+enabled = true
+trust = true
+after = ["links"]
+# KaTeX options.
+output = "html"
+leqno = false
+fleqn = false
+throw-on-error = true
+error-color = "#cc0000"
+min-rule-thickness = -1.0
+max-size = "Infinity"
+max-expand = 1000
+# Extra options.
+no-css = false
+include-src = false
+block-delimiter = { left = "$$", right = "$$" }
+inline-delimiter = { left = "$", right = "$" }
+
+
+#[preprocessor.codeblocks]
+#renderers = ["html"]
+#cpp = { color = "#FFFF99", link = "https://wiki.redmodding.org/red4ext" }
+#redscript = { color = "tomato", link = "https://wiki.redmodding.org/redscript" }
+#rust = { color = "#ac4313", link = "https://github.com/jac3km4/red4ext-rs" }
+#lua = { link = "https://wiki.redmodding.org/cyber-engine-tweaks" }
+#swift = { label = "Swift code snippet", color = "skyblue" }
+#yaml = { color = "tomato" }
+#json = { color = "darkseagreen" }
+#xml = { color = "#1E90FF" }
