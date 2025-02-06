@@ -46,6 +46,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./docs
+      - name: Create symlink
+        run: ln -s ./docs/book/index.html ./docs/index.html    
 
   # Deployment job
   deploy:
