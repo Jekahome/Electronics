@@ -92,8 +92,16 @@ https://github.com/rust-lang/mdBook/wiki/Third-party-plugins
 
 Вы можете сделать это, заключив контент, который вы хотите игнорировать, в два комментария ниже:
 
+```code
+
 <!-- embed ignore begin -->
+ 
+
+этот блок будет закомментирован
 
 {% embed youtube id="DyTCOwB0DVw" loading="lazy" %}
 
+ 
 <!-- embed ignore end -->
+
+```

@@ -22,11 +22,11 @@
 
 Дмитрия Забарило рекомендует после ТОЭ, начать изучать его курс "Электроника для начинающих". 
 
-    - [Для новичков электроников](https://www.youtube.com/playlist?list=PLj5Eqf2ZBZ-OXEYUo9_8sKaduqeEkOix9)
-    - [Основи аналогової схемотехніки](https://www.youtube.com/playlist?list=PL4WQQHlheqfxlBAVy_BCNDcU_HoHczyjk)
-    - [Ларин А.Л. Аналоговая электроника (3к ФРТК)](https://www.youtube.com/playlist?list=PLthfp5exSWEoP1MaghZUN79jFnfBGZmh2)
-    - [Курс лекций "Аналоговая электроника"](https://www.youtube.com/playlist?list=PLQEbcRadZyWEWHoX9doECfUQlDtc8J80f)
-    - [Лекции по курсу "Основы радиотехники"](https://www.youtube.com/playlist?list=PLthfp5exSWEphKXCieHltL9mvY5CiUtnZ)
+- [Для новичков электроников](https://www.youtube.com/playlist?list=PLj5Eqf2ZBZ-OXEYUo9_8sKaduqeEkOix9)
+- [Основи аналогової схемотехніки](https://www.youtube.com/playlist?list=PL4WQQHlheqfxlBAVy_BCNDcU_HoHczyjk)
+- [Ларин А.Л. Аналоговая электроника (3к ФРТК)](https://www.youtube.com/playlist?list=PLthfp5exSWEoP1MaghZUN79jFnfBGZmh2)
+- [Курс лекций "Аналоговая электроника"](https://www.youtube.com/playlist?list=PLQEbcRadZyWEWHoX9doECfUQlDtc8J80f)
+- [Лекции по курсу "Основы радиотехники"](https://www.youtube.com/playlist?list=PLthfp5exSWEphKXCieHltL9mvY5CiUtnZ)
 
     Что надо знать:
    - **Базовые компоненты аналоговой электроники**:
@@ -134,6 +134,7 @@
 - Книга "Рудольф Сворень **Электроника шаг за шагом**"
 
 - Книга "Борисов **Юный радиолюбитель**"
+
 ---
  
 [Відкрита лабораторія електроніки Лампа](https://lampa.kpi.ua/education/)
