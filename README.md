@@ -61,7 +61,6 @@ mdbook serve --open
 
 
 
-
 # Препроцессоры
 https://github.com/rust-lang/mdBook/wiki/Third-party-plugins
 
