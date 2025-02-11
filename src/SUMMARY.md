@@ -16,7 +16,7 @@
     - [Урок 19. Расчет электрических цепей методом законов Кирхгофа. Часть 2.](./theories_of_electrical_circuits/lessons/19.md)
   - [Урок 9. Установившийся и переходной режимы электрических цепей.](./theories_of_electrical_circuits/lessons/9.md)
   - [Урок 10. Последовательное и параллельное соединение резисторов.](./theories_of_electrical_circuits/lessons/10.md)
-  - [Смешанное соединение резисторов. Расчет схемы с одним источником ЭДС.](./theories_of_electrical_circuits/lessons/11.md)
+  - [Смешанное соединение резисторов. Метод сворачивания. Расчет схемы с одним источником ЭДС.](./theories_of_electrical_circuits/lessons/11.md)
     - [Урок 11. Метод сворачивания. Часть 1.](./theories_of_electrical_circuits/lessons/11.md)
     - [Урок 12. Метод сворачивания. Часть 2.](./theories_of_electrical_circuits/lessons/12.md)
   - [Упрощение цепи.](./theories_of_electrical_circuits/lessons/13.md)  
