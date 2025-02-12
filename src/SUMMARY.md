@@ -24,6 +24,7 @@
     - [Урок 15. Расчет электрических цепей со звездой и треугольником сопротивлений.](./theories_of_electrical_circuits/lessons/15.md)
   - [Урок 16. Преобразование нескольких параллельных ветвей с источниками питания в одну эквивалентную ветвь.](./theories_of_electrical_circuits/lessons/16.md)
   - [Урок 17. Преобразование источника ЭДС в источник тока и источника тока в источник ЭДС.](./theories_of_electrical_circuits/lessons/17.md) 
+  - [Разность потенциалов](./theories_of_electrical_circuits/lessons/77.md)
   - [Метод узловых потенциалов.](./theories_of_electrical_circuits/lessons/20.md)
     - [Урок 20-22. Метод узловых потенциалов. Часть 1-3.](./theories_of_electrical_circuits/lessons/20.md)
     - [Урок 22-23. Универсальный способ вывода уравнений.](./theories_of_electrical_circuits/lessons/22.md)
@@ -75,7 +76,7 @@
   - [Урок 74. Теория графов. Часть 7. Расчет передачи электрической цепи. Часть 2.](./theories_of_electrical_circuits/lessons/74.md)
   - [Урок 75. Теория графов. Часть 8. Расчет передачи электрической цепи. Часть 3.](./theories_of_electrical_circuits/lessons/75.md)
   - [Урок 76. Теория графов. Часть 9. Расчет передачи электрической цепи. Часть 4.](./theories_of_electrical_circuits/lessons/76.md)
-
+  - [Правила потенциальной диаграммы]()
 
 - [Аналоговая схемотехника](./Analog_circuitry.md)
     - [Электроника для начинающих](./ElectronicsClub/Электроника_для_начинающих.md)
