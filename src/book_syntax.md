@@ -164,6 +164,23 @@ $V = \varphi потенциал$
 
 $\pm or \plusmn$
 
+
+$
+\begin{bmatrix}
+a_{11} & a_{12} & | & b_1 \\
+a_{21} & a_{22} & | & b_2
+\end{bmatrix}
+$
+
+$
+A =
+\begin{bmatrix}
+a_{11} & a_{12} \\
+a_{21} & a_{22}
+\end{bmatrix}
+$
+
+
 # Препроцессоры: [Mdbook Embedify](https://mr-addict.github.io/mdbook-embedify/)
 
 Install:
