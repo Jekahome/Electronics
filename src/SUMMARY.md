@@ -2,7 +2,7 @@
 
 
 [Introduction](./Introduction.md)
-- [Основы теории электрических цепей (ТОЭ)](./theories_of_electrical_circuits/ТОЭ.md)
+- [Основы теории линейных электрических цепей (ТОЭ)](./theories_of_electrical_circuits/ТОЭ.md)
   - [Урок 1. Электрическая цепь. Основные элементы и параметры.](./theories_of_electrical_circuits/lessons/1.md) 
   - [Урок 2. Электрический ток. Сила тока. Скорость и направление тока.](./theories_of_electrical_circuits/lessons/2.md)
   - [Урок 3. Резистор. Конденсатор. Катушка индуктивности. Мощность. Энергия. Проводимость.](./theories_of_electrical_circuits/lessons/3.md)
@@ -24,6 +24,8 @@
     - [Урок 15. Расчет электрических цепей со звездой и треугольником сопротивлений.](./theories_of_electrical_circuits/lessons/15.md)
   - [Урок 16. Преобразование нескольких параллельных ветвей с источниками питания в одну эквивалентную ветвь.](./theories_of_electrical_circuits/lessons/16.md)
   - [Урок 17. Преобразование источника ЭДС в источник тока и источника тока в источник ЭДС.](./theories_of_electrical_circuits/lessons/17.md) 
+  - [Урок 49. Теорема взаимности.](./theories_of_electrical_circuits/lessons/49.md)
+  - [Урок 50. Теорема компенсации.](./theories_of_electrical_circuits/lessons/50.md)
   - [Разность потенциалов](./theories_of_electrical_circuits/lessons/77.md)
   - [Метод узловых потенциалов.](./theories_of_electrical_circuits/lessons/20.md)
     - [Урок 20-22. Метод узловых потенциалов. Часть 1-3.](./theories_of_electrical_circuits/lessons/20.md)
@@ -34,13 +36,15 @@
     - [Урок 27-28. Метод контурных токов. Часть 1-2.](./theories_of_electrical_circuits/lessons/27.md)
     - [Урок 29. Метод контурных токов. Часть 3. Планарные и непланарные схемы.](./theories_of_electrical_circuits/lessons/29.md)
     - [Урок 30-31. Метод контурных токов. Часть 4-5. Схема с внешним и внутренним источником тока.](./theories_of_electrical_circuits/lessons/30.md)
-  - [Урок 34-36. Метод наложения. Часть 1-3. Расчет простой схемы электрической цепи.](./theories_of_electrical_circuits/lessons/34.md)
+  - [Урок 34-36. Метод наложения. Расчет простой схемы электрической цепи.](./theories_of_electrical_circuits/lessons/34.md)
   - [Урок 37. Метод эквивалентного генератора. Теорема про активный двухполюсник.](./theories_of_electrical_circuits/lessons/37.md)
   - [Урок 42. Определители. Анализ собственных значений матрицы системы](./theories_of_electrical_circuits/lessons/42.md)
-  - [Урок 47. Часть 1. Входная и взаимная проводимости. Входное сопротивление. Теоретические положения.](./theories_of_electrical_circuits/lessons/47.md)
-  - [Урок 48. Часть 2. Расчетное и опытное определение входной и взаимной проводимостей.](./theories_of_electrical_circuits/lessons/48.md)
-  - [Урок 49. Теорема взаимности.](./theories_of_electrical_circuits/lessons/49.md)
-  - [Урок 50. Теорема компенсации.](./theories_of_electrical_circuits/lessons/50.md)
+  
+  - [не нужно]()
+    - [Урок 47. Часть 1. Входная и взаимная проводимости. Входное сопротивление. Теоретические положения.](./theories_of_electrical_circuits/lessons/47.md)
+    - [Урок 48. Часть 2. Расчетное и опытное определение входной и взаимной проводимостей.](./theories_of_electrical_circuits/lessons/48.md)
+      
+
   - [Урок 51. Линейное уравнение. Линейная функция. Уравнение первого порядка. Полином первого порядка.](./theories_of_electrical_circuits/lessons/51.md)
   - [Урок 52. Принцип линейности в линейных электрических цепях.](./theories_of_electrical_circuits/lessons/52.md)
   - [Урок 53. Теорема вариаций.](./theories_of_electrical_circuits/lessons/53.md)
