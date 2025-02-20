@@ -45,9 +45,8 @@
     - [Урок 48. Часть 2. Расчетное и опытное определение входной и взаимной проводимостей.](./theories_of_electrical_circuits/lessons/48.md)
       
 
-  - [Урок 51. Линейное уравнение. Линейная функция. Уравнение первого порядка. Полином первого порядка.](./theories_of_electrical_circuits/lessons/51.md)
+  - [Урок 51. Линейное уравнение. Линейная функция.](./theories_of_electrical_circuits/lessons/51.md)
   - [Урок 52. Принцип линейности в линейных электрических цепях.](./theories_of_electrical_circuits/lessons/52.md)
-  - [Урок 53. Теорема вариаций.](./theories_of_electrical_circuits/lessons/53.md)
   - [Урок 54. Передача электроэнергии от источника к приемнику.](./theories_of_electrical_circuits/lessons/54.md)
   - [Урок 55. Передача электроэнергии по линии электропередачи (ЛЭП).](./theories_of_electrical_circuits/lessons/55.md)
   - [Урок 56. Баланс мощностей в электрических цепях.](./theories_of_electrical_circuits/lessons/56.md)

@@ -15,7 +15,7 @@ y = k * x + b
 plt.plot(x, y)
  
 # Добавляем заголовок к графику
-plt.title("График линейной функции: y = b")
+plt.title("График линейной функции при k = 0: f(x) = b")
 
 # Включаем сетку для лучшей читаемости
 plt.grid(True)
@@ -31,7 +31,7 @@ ax.spines['top'].set_color('none')
 plt.xlabel("x", loc="right", fontweight="bold")
 plt.ylabel("y", loc="top", fontweight="bold")
 
-plt.errorbar(x, y, xerr=0.1, xlolims=False, label='xlolims=False')
+plt.errorbar(x, y, xerr=0.1, xlolims=False, label='y=-2x+5')
 plt.legend()
 # Показываем график
 plt.show()
