@@ -160,7 +160,7 @@ $R\tiny RRRRR\normalsize \cdot I_1$
 
 $R_{RRRRR} \cdot I_1 $
  
-$V = \varphi потенциал$ 
+$V = \varphi потенциал или φ $ 
 
 $\pm or \plusmn$
 
