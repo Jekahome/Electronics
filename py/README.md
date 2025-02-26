@@ -12,4 +12,7 @@ deactivate
 
 ```
 pip install matplotlib
+pip install networkx
+sudo apt install graphviz graphviz-dev
+pip install pygraphviz
 ```
