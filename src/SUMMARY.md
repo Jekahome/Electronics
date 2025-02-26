@@ -17,6 +17,7 @@
     - [Урок 19. Расчет электрических цепей методом законов Кирхгофа. Часть 2.](./theories_of_electrical_circuits/lessons/19.md)
   - [Урок 9. Установившийся и переходной режимы электрических цепей.](./theories_of_electrical_circuits/lessons/9.md)
   - [Урок 10. Последовательное и параллельное соединение резисторов.](./theories_of_electrical_circuits/lessons/10.md)
+  - [Делитель напряжения](./theories_of_electrical_circuits/lessons/14.md)
   - [Смешанное соединение резисторов. Метод сворачивания. Расчет схемы с одним источником ЭДС.](./theories_of_electrical_circuits/lessons/11.md)
     - [Урок 11. Метод сворачивания. Часть 1.](./theories_of_electrical_circuits/lessons/11.md)
     - [Урок 12. Метод сворачивания. Часть 2.](./theories_of_electrical_circuits/lessons/12.md)
@@ -48,7 +49,14 @@
   - [Урок 57. Потенциальная диаграмма.](./theories_of_electrical_circuits/lessons/57.md)
   - [Урок 58. Матрицы.](./theories_of_electrical_circuits/lessons/78.md)
   - [Урок 68. Теория графов.](./theories_of_electrical_circuits/lessons/68.md)
-  
+  - [Конденсатор](./theories_of_electrical_circuits/lessons/79.md)
+- [Основы теории не линейных электрических цепий](./theories_of_electrical_circuits/lessons/80.md)  
+- [Электрические цепи переменного тока, однофазные синусоидальные]()  
+  - [Асинхронные двигатели и генераторы]()
+  - [Магнитные цепи]()
+  - [Электрические фильтры (входные,выходные,блоки питания)]()
+
+
 - [Аналоговая схемотехника](./Analog_circuitry.md)
     - [Электроника для начинающих](./ElectronicsClub/Электроника_для_начинающих.md)
     

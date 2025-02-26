@@ -1,7 +1,7 @@
 # Build envairment
 
 ```
-Create:
+cd py
 python -m venv env_chart
 source env_chart/bin/activate
 
