@@ -140,6 +140,8 @@ $U(R_1)=I_2\cdot R_1=6.67\cdot 9  \approx 60.03, V$
 
 $\sum I_3\to U_3 \to \infty$
  
+$\Rightarrow стрелка$
+
 ЭДС, $\mathcal{E}$
 
 $0.001 = 1 / 1000 = 10^{-3}$

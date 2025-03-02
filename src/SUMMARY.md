@@ -52,7 +52,7 @@
  
   - [Урок 9. Установившийся и переходной режимы электрических цепей.](./theories_of_electrical_circuits/lessons/9.md)
   - [Емкостной элемент](./theories_of_electrical_circuits/lessons/79.md)
-    - [Поведение конденсатора в установившемся режиме в цепи постоянного тока](./theories_of_electrical_circuits/lessons/81.md)
+    - [Поведение конденсатора в переходном режиме](./theories_of_electrical_circuits/lessons/81.md)
     - [Последовательное и параллельное соединении конденсаторов. RC-цепь](./theories_of_electrical_circuits/lessons/83.md)
     - [Применение емкостных элементов](./theories_of_electrical_circuits/lessons/84.md)
 
