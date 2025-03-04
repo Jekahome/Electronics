@@ -2,3 +2,12 @@
     background-color: #e0f7fa;
     border-left: 4px solid #00bcd4;
 }
+
+.inline-inputs {
+    display: flex;
+    align-items: center;
+}
+
+.inline-inputs label, .inline-inputs input, .inline-inputs select, .inline-inputs button, .inline-inputs p {
+    margin-right: 10px;
+}

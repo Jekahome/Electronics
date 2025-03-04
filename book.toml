@@ -9,7 +9,7 @@ title = "Electronica"
 mathjax-support = true
 default-theme = "light"
 additional-css = ["css/custom.css", "css/mdbook-admonish.css"]
-additional-js = ["js/mermaid.min.js", "js/mermaid-init.js" ]
+additional-js = ["js/mermaid.min.js", "js/mermaid-init.js" , "js/user.js"]
 
 
 [output.html.playground]
