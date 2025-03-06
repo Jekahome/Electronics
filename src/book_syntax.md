@@ -162,10 +162,15 @@ $R\tiny RRRRR\normalsize \cdot I_1$
 
 $R_{RRRRR} \cdot I_1 $
  
-$V = \varphi потенциал или φ $ 
+$V = \varphi\ потенциал\ или\ φ $ 
 
-$\pm or \plusmn$
+$\pm\ or\ \plusmn$
 
+$\sqrt{x}$
+
+$\sqrt[3]{8}$
+
+$\sqrt{a^2 + b^2}$
 
 $
 \begin{bmatrix}
