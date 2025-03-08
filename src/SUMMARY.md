@@ -62,7 +62,7 @@
 
   - [Катушка индуктивности](./theories_of_electrical_circuits/lessons/80.md)
     - [Поведение индуктивного элемента в установившемся режиме](./theories_of_electrical_circuits/lessons/82.md)
-
+- [Цепи переменного тока (AC)](./theories_of_electrical_circuits/lessons/101.md) 
 - [Основы теории не линейных электрических цепий постоянного тока (DC)](./theories_of_electrical_circuits/lessons/100.md)  
 - [Электрические цепи переменного тока (AC), однофазные синусоидальные](https://www.youtube.com/watch?v=DQj542ccfRI&list=PLmu_y3-DV2_ko4Q36htOLjHM3QgGnbQY0&index=4) 
 
