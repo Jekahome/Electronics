@@ -54,15 +54,19 @@
   - [Емкостной элемент](./theories_of_electrical_circuits/lessons/79.md)
     - [Поведение конденсатора в переходном режиме](./theories_of_electrical_circuits/lessons/81.md)
     - [Параллельное и последовательное соединении конденсаторов. RC-цепь](./theories_of_electrical_circuits/lessons/83.md)
-    - [Емкостный делитель напряжения](./theories_of_electrical_circuits/lessons/85.md)
+    
     - [Применение емкостных элементов](./theories_of_electrical_circuits/lessons/84.md)
       - [Сглаживание пульсаций](./theories_of_electrical_circuits/lessons/86.md)
       - [Подавление высокочастотных помех](./theories_of_electrical_circuits/lessons/87.md)
       - [Подавление низкочастотных помех](./theories_of_electrical_circuits/lessons/88.md)
 
   - [Катушка индуктивности](./theories_of_electrical_circuits/lessons/80.md)
-    - [Поведение индуктивного элемента в установившемся режиме](./theories_of_electrical_circuits/lessons/82.md)
+    - [Поведение индуктивного элемента в переходном режиме](./theories_of_electrical_circuits/lessons/82.md)
+    - [Применение катушки индуктивности](./theories_of_electrical_circuits/lessons/90.md)
 - [Цепи переменного тока (AC)](./theories_of_electrical_circuits/lessons/101.md) 
+  - [Емкостной элемент](./theories_of_electrical_circuits/lessons/102.md)
+  - [Емкостный делитель напряжения](./theories_of_electrical_circuits/lessons/85.md)
+  - [Индуктивный делитель напряжения](./theories_of_electrical_circuits/lessons/89.md)
 - [Основы теории не линейных электрических цепий постоянного тока (DC)](./theories_of_electrical_circuits/lessons/100.md)  
 - [Электрические цепи переменного тока (AC), однофазные синусоидальные](https://www.youtube.com/watch?v=DQj542ccfRI&list=PLmu_y3-DV2_ko4Q36htOLjHM3QgGnbQY0&index=4) 
 
