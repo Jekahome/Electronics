@@ -30,10 +30,10 @@ function convertCapacity() {
   const formatNumber = (num) => {
       if (Math.abs(num) < 1e-6) {
           // Для очень маленьких чисел используем toFixed
-          return num.toFixed(20).replace(/\.?0+$/, ''); // Убираем лишние нули после запятой
+          return num.toFixed(10).replace(/\.?0+$/, ''); // Убираем лишние нули после запятой
       } else {
           // Для больших чисел используем toLocaleString
-          return num.toLocaleString('fullwide', { useGrouping: false, maximumFractionDigits: 20 });
+          return num.toLocaleString('fullwide', { useGrouping: false, maximumFractionDigits: 10 });
       }
   };
 
