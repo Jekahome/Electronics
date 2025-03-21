@@ -1,22 +1,48 @@
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
 
-# Данные
-frequencies = [6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12,12.5,13]  # Частоты в кГц
-voltages = [1.168, 1.180, 1.195, 1.204, 1.211, 1.216, 1.219, 1.220, 1.220, 1.217, 1.214, 1.210, 1.205,1.200,1.194]  # Напряжения в В
+# Параметры RLC-цепи
+L = 1.2  # Индуктивность, Гн
+C = 0.0000001  # Ёмкость, Ф
+R = 0.01  # Сопротивление, Ом
 
-# Построение графика
-plt.figure(figsize=(10, 6))
-plt.plot(frequencies, voltages, marker='o', linestyle='-', color='b', label='АЧХ')
+# Коэффициенты характеристического уравнения: a*s^2 + b*s + c = 0
+a = L * C
+b = R * C
+c = 1
 
-# Настройка графика
-plt.title('Амплитудно-частотная характеристика (АЧХ)')
-plt.xlabel('Частота, кГц')
-plt.ylabel('Напряжение, В')
-plt.grid(True)
+# Вычисление дискриминанта
+discriminant = b**2 - 4 * a * c
+
+# Нахождение полюсов
+if discriminant >= 0:
+    # Действительные корни
+    s1 = (-b + np.sqrt(discriminant)) / (2 * a)
+    s2 = (-b - np.sqrt(discriminant)) / (2 * a)
+else:
+    # Комплексные корни
+    s1 = (-b + 1j * np.sqrt(-discriminant)) / (2 * a)
+    s2 = (-b - 1j * np.sqrt(-discriminant)) / (2 * a)
+
+# Вывод полюсов
+print(f"Полюс 1: {s1}")
+print(f"Полюс 2: {s2}")
+
+# Визуализация полюсов на комплексной плоскости
+plt.figure(figsize=(8, 6))
+plt.scatter(np.real(s1), np.imag(s1), color='red', label=f'Полюс 1: {s1:.2f}')
+plt.scatter(np.real(s2), np.imag(s2), color='blue', label=f'Полюс 2: {s2:.2f}')
+
+# Отрисовка осей
+plt.axhline(0, color='black', linewidth=0.5)
+plt.axvline(0, color='black', linewidth=0.5)
+
+# Подписи
+plt.title('Полюса RLC-цепи на комплексной плоскости')
+plt.xlabel('Re(s)')
+plt.ylabel('Im(s)')
 plt.legend()
-plt.xticks(np.arange(6, 13, 0.5))  # Шаг по оси X
-plt.yticks(np.arange(1.15, 1.25, 0.02))  # Шаг по оси Y
+plt.grid(True)
 
 # Показать график
 plt.show()
