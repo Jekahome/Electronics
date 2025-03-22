@@ -73,6 +73,7 @@
   - [Емкостный делитель напряжения](./theories_of_electrical_circuits/lessons/85.md)
   - [Катушка индуктивности](./theories_of_electrical_circuits/lessons/91.md)
   - [LC-цепи](./theories_of_electrical_circuits/lessons/92.md)
+  - [RLC-цепи](./theories_of_electrical_circuits/lessons/96.md)
   - [Индуктивный делитель напряжения](./theories_of_electrical_circuits/lessons/89.md)
 
   
