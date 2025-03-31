@@ -55,29 +55,28 @@
   - [Емкостной элемент](./theories_of_electrical_circuits/lessons/79.md)
     - [Поведение конденсатора в переходном режиме](./theories_of_electrical_circuits/lessons/81.md)
     - [Параллельное и последовательное соединении конденсаторов. RC-цепь](./theories_of_electrical_circuits/lessons/83.md)
-    
     - [Применение емкостных элементов](./theories_of_electrical_circuits/lessons/84.md)
       - [Сглаживание пульсаций](./theories_of_electrical_circuits/lessons/86.md)
       - [Подавление высокочастотных помех](./theories_of_electrical_circuits/lessons/87.md)
       - [Подавление низкочастотных помех](./theories_of_electrical_circuits/lessons/88.md)
-
   - [Катушка индуктивности](./theories_of_electrical_circuits/lessons/80.md)
     - [Поведение индуктивного элемента в переходном режиме](./theories_of_electrical_circuits/lessons/82.md)
-    - [Резонанс. Компенсация реактивной мощности катушки](./theories_of_electrical_circuits/lessons/94.md)
-    - [Колебательный контур RLC цепь](./theories_of_electrical_circuits/lessons/95.md)
+    - [Параллельное и последовательное соединение катушек](./theories_of_electrical_circuits/lessons/92.md)
     - [Применение катушки индуктивности](./theories_of_electrical_circuits/lessons/90.md)
       - [Фильтры (RC,CR,RL,LR и др.)](./theories_of_electrical_circuits/lessons/93.md)
+      - [Радио (практика)](./theories_of_electrical_circuits/lessons/97.md)
+    - [Затухающие колебания RLC цепи](./theories_of_electrical_circuits/lessons/96.md)
   - [Линейные генераторы сигналов (синусоидальные)](./theories_of_electrical_circuits/lessons/103.md) 
-- [Цепи переменного тока (AC)](./theories_of_electrical_circuits/lessons/101.md) 
+- [Цепи переменного тока (AC)](./theories_of_electrical_circuits/lessons/101.md)
+  - [Источники (AC)](./theories_of_electrical_circuits/lessons/98.md) 
   - [Емкостной элемент](./theories_of_electrical_circuits/lessons/102.md)
   - [Емкостный делитель напряжения](./theories_of_electrical_circuits/lessons/85.md)
   - [Катушка индуктивности](./theories_of_electrical_circuits/lessons/91.md)
-  - [LC-цепи](./theories_of_electrical_circuits/lessons/92.md)
-  - [RLC-цепи](./theories_of_electrical_circuits/lessons/96.md)
+  - [Колебательный контур RLC цепь](./theories_of_electrical_circuits/lessons/95.md)
   - [Индуктивный делитель напряжения](./theories_of_electrical_circuits/lessons/89.md)
 
-  
 - [Основы теории не линейных электрических цепий постоянного тока (DC)](./theories_of_electrical_circuits/lessons/100.md) 
+  - [Транзистор](./theories_of_electrical_circuits/lessons/105.md)
   - [Устойчивость системы](./theories_of_electrical_circuits/lessons/42.md)  
   - [Нелинейные генераторы сигналов (прямоугольные, треугольные)](./theories_of_electrical_circuits/lessons/104.md)
 - [Электрические цепи переменного тока (AC), однофазные синусоидальные](https://www.youtube.com/watch?v=DQj542ccfRI&list=PLmu_y3-DV2_ko4Q36htOLjHM3QgGnbQY0&index=4) 
@@ -93,6 +92,15 @@
     - [Микроконтроллеры MK AVR](./ElectronicsClub/Микроконтроллеры_MK_AVR.md)
 - [Цифровая схемотехника](./Digital_circuitry.md)
 - [Словарь терминов](./glossary_of_terms/index.md)
+
+--- 
+
+# Tools
+
+- [Химия](./tools/chemistry.md)
+- [Припой](./tools/solder.md)
+- [Мультиметр](./tools/multimeter.md)
+- [Блок питания](./tools/power_unit.md)
 
 ---   
 
