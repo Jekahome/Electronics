@@ -59,12 +59,14 @@
       - [Сглаживание пульсаций](./theories_of_electrical_circuits/lessons/86.md)
       - [Подавление высокочастотных помех](./theories_of_electrical_circuits/lessons/87.md)
       - [Подавление низкочастотных помех](./theories_of_electrical_circuits/lessons/88.md)
+    - [Радиоэлементы из старой аппаратуры: конденсаторы](./theories_of_electrical_circuits/lessons/23.md)  
   - [Катушка индуктивности](./theories_of_electrical_circuits/lessons/80.md)
     - [Поведение индуктивного элемента в переходном режиме](./theories_of_electrical_circuits/lessons/82.md)
     - [Параллельное и последовательное соединение катушек](./theories_of_electrical_circuits/lessons/92.md)
     - [Применение катушки индуктивности](./theories_of_electrical_circuits/lessons/90.md)
       - [Фильтры (RC,CR,RL,LR и др.)](./theories_of_electrical_circuits/lessons/93.md)
       - [Радио (практика)](./theories_of_electrical_circuits/lessons/97.md)
+    - [Вариометр](./theories_of_electrical_circuits/lessons/94.md)  
     - [Затухающие колебания RLC цепи](./theories_of_electrical_circuits/lessons/96.md)
   - [Линейные генераторы сигналов (синусоидальные)](./theories_of_electrical_circuits/lessons/103.md) 
 - [Цепи переменного тока (AC)](./theories_of_electrical_circuits/lessons/101.md)
@@ -77,6 +79,13 @@
 
 - [Основы теории не линейных электрических цепий постоянного тока (DC)](./theories_of_electrical_circuits/lessons/100.md) 
   - [Транзистор](./theories_of_electrical_circuits/lessons/105.md)
+    - [BJT. Режимы работы транзистора](./theories_of_electrical_circuits/lessons/110.md)
+    - [BJT NPN. Схема с общим эмиттером](./theories_of_electrical_circuits/lessons/107.md)
+    - [BJT NPN. Схема с общим коллектором](./theories_of_electrical_circuits/lessons/108.md)
+    - [BJT NPN. Схема с общей базой](./theories_of_electrical_circuits/lessons/109.md)
+
+  - [Диоды](./theories_of_electrical_circuits/lessons/106.md)
+  - [Защита цепей](./theories_of_electrical_circuits/lessons/25.md)
   - [Устойчивость системы](./theories_of_electrical_circuits/lessons/42.md)  
   - [Нелинейные генераторы сигналов (прямоугольные, треугольные)](./theories_of_electrical_circuits/lessons/104.md)
 - [Электрические цепи переменного тока (AC), однофазные синусоидальные](https://www.youtube.com/watch?v=DQj542ccfRI&list=PLmu_y3-DV2_ko4Q36htOLjHM3QgGnbQY0&index=4) 
@@ -92,6 +101,9 @@
     - [Микроконтроллеры MK AVR](./ElectronicsClub/Микроконтроллеры_MK_AVR.md)
 - [Цифровая схемотехника](./Digital_circuitry.md)
 - [Словарь терминов](./glossary_of_terms/index.md)
+- [Проекты](./projects/index.md)
+  - [Усилители](./projects/1.md)
+
 
 --- 
 
