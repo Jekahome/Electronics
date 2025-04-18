@@ -113,6 +113,7 @@
 - [Припой](./tools/solder.md)
 - [Мультиметр](./tools/multimeter.md)
 - [Блок питания](./tools/power_unit.md)
+- [Компоненты](./tools/components.md)
 
 ---   
 
